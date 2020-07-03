@@ -2,8 +2,10 @@
 layout: home
 ---
 
-## Hello,
-  
+# Test
+
+## Home
+
 Welcome to a wonderful place  
 Hidden, look into its face  
 Oh, to be shackled in place  
